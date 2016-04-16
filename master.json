@@ -1,0 +1,29 @@
+{
+  "name": "TechReborn",
+  "modId": "techreborn",
+  "entries": [
+    {
+      "name": "Manual",
+      "registryName": "TODO",
+      "type": "Text",
+      "category": "Items",
+      "data": {
+        "data": {
+          "image": "",
+          "text": "The manual is this item."
+        }
+      }
+    },
+    {
+      "name": "Rubber",
+      "type": "Image",
+      "category": "Items",
+      "data": {
+        "data": {
+          "image": "gettingrubber",
+          "text": ""
+        }
+      }
+    }
+  ]
+}
