@@ -16,12 +16,13 @@
     },
     {
       "name": "Rubber",
+      "registryName": "techreborn:part:41",
       "type": "Image",
       "category": "Items",
       "data": {
         "data": {
           "image": "gettingrubber",
-          "text": ""
+          "text": "You can get rubber by using a tree tap on a rubber log that has a sap blob on."
         }
       }
     }
