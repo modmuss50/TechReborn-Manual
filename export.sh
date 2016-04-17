@@ -1,2 +1,2 @@
-wget -O exporter.jar http://maven.modmuss50.me/TechReborn/TechReborn-1.9/1.0.5.182/TechReborn-1.9-1.0.5.182-designer.jar
+wget -O exporter.jar http://maven.modmuss50.me/TechReborn-Designer/TechReborn-Desginer/1.0.0.1/TechReborn-Desginer-1.0.0.1.jar
 java -cp exporter.jar techreborn.manual.designer.exporter.Exporter  ${WORKSPACE} /var/www/techreborn/manual/
