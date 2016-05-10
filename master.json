@@ -3,14 +3,12 @@
   "modId": "techreborn",
   "entries": [
     {
-      "name": "Manual",
-      "registryName": "TODO",
+      "name": "Grinder",
       "type": "Text",
-      "category": "Items",
+      "category": "Machines",
       "data": {
         "data": {
-          "image": "",
-          "text": "The manual is this item."
+          "text": "The Grinder is like the Macerator from ic2, it breaks down ores into dusts."
         }
       }
     },
@@ -23,6 +21,18 @@
         "data": {
           "image": "gettingrubber",
           "text": "You can get rubber by using a tree tap on a rubber log that has a sap blob on."
+        }
+      }
+    },
+    {
+      "name": "Manual",
+      "registryName": "TODO",
+      "type": "Text",
+      "category": "Items",
+      "data": {
+        "data": {
+          "image": "",
+          "text": "The manual is this item."
         }
       }
     }
