@@ -13,6 +13,18 @@
       }
     },
     {
+      "name": "Manual",
+      "registryName": "TODO",
+      "type": "Text",
+      "category": "Items",
+      "data": {
+        "data": {
+          "image": "",
+          "text": "The manual is this item."
+        }
+      }
+    },
+    {
       "name": "Rubber",
       "registryName": "techreborn:part:41",
       "type": "Image",
@@ -25,14 +37,12 @@
       }
     },
     {
-      "name": "Manual",
-      "registryName": "TODO",
+      "name": "Tree Tap",
       "type": "Text",
-      "category": "Items",
+      "category": "Tools",
       "data": {
         "data": {
-          "image": "",
-          "text": "The manual is this item."
+          "text": "The tree tap allows you extract rubber from a rubber tree"
         }
       }
     }
